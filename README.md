@@ -10,6 +10,12 @@
   <img src="assets/Architecture.png" style="margin: 0 auto; width: 80%;" />
 </picture>
 
+### Fog Density Estimation Module
+
+<picture>
+  <img src="assets/FDEM.png" style="margin: 0 auto; width: 80%;" />
+</picture>
+
 ### Testing prediction code of AMQI
 NULL.
 
