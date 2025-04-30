@@ -1,2 +1,2 @@
 # UEIQI
-A underwater enhanced image quality index (UEIQI).
+Underwater Enhanced Image Quality Index (UEIQI).
