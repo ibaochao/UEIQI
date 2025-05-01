@@ -16,7 +16,7 @@
   <img src="assets/FDEM.png" style="margin: 0 auto; width: 80%;" />
 </picture>
 
-### Testing prediction code of AMQI
+### Testing prediction code of UEIQI
 NULL.
 
 ### Citation
