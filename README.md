@@ -32,4 +32,3 @@ GB/T 7714
 ```
 Waiting for publication.
 ```
-
